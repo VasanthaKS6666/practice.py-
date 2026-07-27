@@ -1,0 +1,6 @@
+car = {"brand": "Toyota", "year": 2020}
+
+# Adding a new key-value pair
+car["color"] = "Red"
+
+print(car)
