@@ -1,0 +1,4 @@
+
+person = {"name": "Alice", "age": 25}
+removed = person.pop("age", None)
+print("Removed:", removed, "Remaining:", person)
